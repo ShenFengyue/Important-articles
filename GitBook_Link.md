@@ -1,31 +1,16 @@
 # GitBook My books.
 
-## 河北大学生存指南
+## 一、申的光辉思想合集
 
-for Read
+https://linfengyue.gitbook.io/shenbook/
 
-https://linfengyue.gitbook.io/shenzhe/
+## 二、HTML学习笔记
 
-for edit
+https://linfengyue.gitbook.io/html-notes/
 
-https://app.gitbook.com/o/q47taZhvcEMMxzMmTPhT/s/l3xaw2N2dHdsQfacu2p7/
+## 三、河北大学生存指南
 
-## 申的光辉思想合集
-
-for read
-
-https://linfengyue.gitbook.io/shenzhe2/
-
-for edit
-
-https://app.gitbook.com/o/q47taZhvcEMMxzMmTPhT/s/kH5Bkbk6ubJWR3sl2dnv/
-
-## Notes
-
-for edit
-
-https://app.gitbook.com/o/q47taZhvcEMMxzMmTPhT/s/XnzMnrMTxMvyfWEYLbpL/
-
+https://linfengyue.gitbook.io/hbu/
 
 
 

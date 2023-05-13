@@ -1,6 +1,6 @@
 # GitBook My books.
 
-## Shen_In_HBU 
+## 河北大学生存指南
 
 for Read
 
@@ -10,7 +10,7 @@ for edit
 
 https://app.gitbook.com/o/q47taZhvcEMMxzMmTPhT/s/l3xaw2N2dHdsQfacu2p7/
 
-## My_own_life
+## 申的光辉思想合集
 
 for read
 
